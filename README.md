@@ -38,11 +38,6 @@ Resultou num episódio que aborda dois temas relevantes e em alta, a IA e o TEA.
 ## 💭 Reflexão (Opcional)
 Como quase tudo na vida, essa possibilidade aponta para dois possíveis caminhos, o do bem, auxiliando criação de conteúdo com responsabilidade e,o do mal, quando se utilizam da voz ou imagem das pessoas para proclamar mentiras.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
