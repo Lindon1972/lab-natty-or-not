@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A IA como parceira no tratamento do AUTISMO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de um podcast que aborda o uso da Inteligência Artificial (IA) no auxílio às terapias que tratam o Transtorno do Espectro Autista (TEA).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para criação do conteúdo;
+IA Generativa ElevenLabs para clonagem e sintetização de voz.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para criação de conteúdo guiado, oferecendo um tema para geração do texto. E com o ElevenLabs realizei a conversão do texto em voz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultou num episódio que aborda dois temas relevantes e em alta, a IA e o TEA. Um podcast interessante para quem deseja conhecer mais facetas das tecnologias como ferramentas para auxílio no tratamento do autismo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Como quase tudo na vida, essa possibilidade aponta para dois possíveis caminhos, o do bem, auxiliando criação de conteúdo com responsabilidade e,o do mal, quando se utilizam da voz ou imagem das pessoas para proclamar mentiras.
 
 ### Exemplos e Insigths
 
